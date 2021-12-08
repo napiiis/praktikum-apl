@@ -3,7 +3,7 @@ Muhammad Nafis
 
 Magazine Shop (Toko Majalah)
 
-Customer akan mendapatkan notifikasi terkait majalah" terbaru yang diterbitkan dengan jenis majalahnya. Jenis majalah tersebut bisa berupa majalah olahraga/sports dan gaya hidup/lifestyle.
+Customer akan mendapatkan notifikasi terkait Magazine (Majalah) terbaru yang diterbitkan dengan jenis majalahnya. Jenis majalah tersebut bisa berupa majalah olahraga/sports dan majalah gaya hidup/lifestyle.
 
 Design Pattern yang digunakan :
 1. Observer Pattern
@@ -16,7 +16,7 @@ Design Pattern yang digunakan :
 1. Clone Repository
   $ git clone https://github.com/napiiis/praktikum-apl.git
 
-2. Compile The Code
+2. Compile The Code!
 Go to the directory where the file is stored in cmd/terminal and run the following command:
      $ javac Main.java
 
