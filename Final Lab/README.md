@@ -7,7 +7,7 @@ Customer akan mendapatkan notifikasi terkait Magazine (Majalah) terbaru yang dit
 
 Design Pattern yang digunakan :
 1. Observer Pattern
-   Subjek   = Publisher
+   Subject  = Publisher
    Observer = Customer
 2. Decorator Pattern
    Object Decorator = Magazine yang diisi dengan type Magazine Sports atau News.
