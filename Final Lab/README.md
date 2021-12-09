@@ -12,8 +12,8 @@ Design Pattern yang digunakan :
    
 2. Decorator Pattern, digunakan untuk memberikan decor kepada tipe Magazine (Majalah).
    Object Decorator = Magazine yang diisi dengan type Magazine Sports atau News.
- 
- 
+
+
 #RUN
 1. Clone Repository
   $ git clone https://github.com/napiiis/praktikum-apl.git
